@@ -1,2 +1,8 @@
 # TodoList
-A app about time management
+time management
+
+### B/S web 
+
+### C/S java
+
+
